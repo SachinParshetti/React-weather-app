@@ -3,6 +3,11 @@ A responsive and visually engaging weather forecast application built with React
 
 ![Weather App Preview](/image.png)
 
+## 🌐 Live Preview
+
+🔗 [Click here to view the live app](## 🌐 Live Preview
+
+🔗 [Click here to view the live app](https://sachinparshetti.github.io/React-weather-app/))
 
 🚀 Features
 🔍 Search by City — Enter any city name to get live weather updates.
